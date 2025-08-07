@@ -24,7 +24,7 @@ Each project includes a README detailing:
 
 ## ✅ Converted Projects
 
-🚧 In Progress
+- **[CornerShopCalculator](./CornerShopCalculator)** – basic earnings vs expenses calculator.
 
 > More projects coming soon — including selected Java track challenges.
 
